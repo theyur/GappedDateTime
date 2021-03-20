@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GappedDateTime", "GappedDateTime.csproj", "{89146BE4-DA3B-4F69-9ABD-2BD32F603E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GappedDateTimeTests", "Tests\GappedDateTimeTests\GappedDateTimeTests.csproj", "{806ADE54-2061-423D-B14F-9718FEDA80D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89146BE4-DA3B-4F69-9ABD-2BD32F603E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89146BE4-DA3B-4F69-9ABD-2BD32F603E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89146BE4-DA3B-4F69-9ABD-2BD32F603E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89146BE4-DA3B-4F69-9ABD-2BD32F603E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806ADE54-2061-423D-B14F-9718FEDA80D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806ADE54-2061-423D-B14F-9718FEDA80D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806ADE54-2061-423D-B14F-9718FEDA80D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806ADE54-2061-423D-B14F-9718FEDA80D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
